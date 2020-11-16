@@ -12,8 +12,10 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 - 🔭 I’m currently working with Ruby (Rails). 
 - 🌱 I’m currently learning React, React Native and c++.
 - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a>
+<!--
 - 💬 Ask me about ... i don't now, maybe... anything related to programming! (I try to help '-' )
 - 📫 How to reach me: eduardoreissk8@gmail.com
+-->
 - :shipit: Fun fact: Learning pixel art and watching :movie_camera: studio ghibli movies whenever I can
 
 <!--
