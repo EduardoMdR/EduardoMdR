@@ -9,17 +9,12 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 
 ### Some facts about me:
 
-- 🔭 I’m currently working with Ruby (Rails). 
-- 🌱 I’m currently learning React, React Native and c++.
-- :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a>
-<!--
-- 💬 Ask me about ... i don't now, maybe... anything related to programming! (I try to help '-' )
-- 📫 How to reach me: eduardoreissk8@gmail.com
--->
-- :shipit: Fun fact: Learning pixel art and watching :movie_camera: studio ghibli movies whenever I can
+- 👷 I’m currently working with Ruby on Rails, React JS and React Native. 
+- 🧠 I'm currently know C, C++, Ruby, JavaScript, React, Go, HTML, CSS, database manipulation, API's.
+- 📔 I’m currently learning Python, Typescript.
+<!-- - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a> -->
+- 📫 How to reach me: edu.mdr@outlook.com
 
-<!--
-**EduardoMdR/EduardoMdR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- :shipit: Fun fact: Learning pixel art and watching :movie_camera: studio ghibli movies whenever I can
 
 ![explosion](https://github.com/EduardoMdR/EduardoMdR/blob/master/particulas%202.gif)
