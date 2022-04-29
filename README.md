@@ -12,6 +12,7 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 - 👷 I’m currently working with Ruby on Rails, React JS and React Native. 
 - 🧠 I'm currently know C, C++, Ruby, JavaScript, React, Go, HTML, CSS, database manipulation, API's.
 - 📔 I’m currently learning Python, Typescript.
+- 💭 I'm currently looking for an internship
 <!-- - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a> -->
 - 📫 How to reach me: edu.mdr@outlook.com
 
