@@ -4,18 +4,20 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 
 ### **Current occupations**
 
-1.  Computer engineeringstudent at the Universidade de Brasília (UnB).
-2.  Member of theProject area of <a href="https://www.linkedin.com/company/struct-ej/">Struct - Junior Computer Engineering Company</a>
+1.  Computer engineering student at the Universidade de Brasília (UnB)
 
 ### Some facts about me:
 
-- 👷 I’m currently working with Ruby on Rails, React JS and React Native. 
-- 🧠 I'm currently know C, C++, Ruby, JavaScript, React, Go, HTML, CSS, database manipulation, API's.
-- 📔 I’m currently learning Python, Typescript.
-- 💭 I'm currently looking for an internship
-<!-- - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a> -->
-- 📫 How to reach me: edu.mdr@outlook.com
+> 🧠 I know the following languages C, C++, Python, Ruby, JavaScript, React JS and React Native, Go, HTML, CSS, database manipulation, API's
 
-- :shipit: Fun fact: Learning pixel art and watching :movie_camera: studio ghibli movies whenever I can
+> 📔 I’m currently learning **<a style="color:#0969DA" href="https://en.wikipedia.org/wiki/Genetic_programming#:~:text=In%20artificial%20intelligence%2C%20genetic%20programming,to%20the%20population%20of%20programs.">Genetic Programming</a>**
+
+> 💭 I'm currently looking for an internship
+
+<!-- - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a> -->
+
+> 📫 How to reach me: edu.mdr@outlook.com
+
+> :shipit: Fun fact: Learning pixel art and watching :movie_camera: studio ghibli movies whenever I can
 
 ![explosion](https://github.com/EduardoMdR/EduardoMdR/blob/master/particulas%202.gif)
