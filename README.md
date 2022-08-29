@@ -5,16 +5,13 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 ### **Current occupations**
 
 1.  Computer engineering student at the Universidade de Brasília (UnB)
+2.  Development Intern - RPA at <b>[@Smarthis](https://smarthis.com.br/)</b>
 
 ### Some facts about me:
 
 > 🧠 I know the following languages C, C++, Python, Ruby, JavaScript, React JS and React Native, Go, HTML, CSS, database manipulation, API's
 
 > 📔 I’m currently learning **<a style="color:#0969DA" href="https://en.wikipedia.org/wiki/Genetic_programming#:~:text=In%20artificial%20intelligence%2C%20genetic%20programming,to%20the%20population%20of%20programs.">Genetic Programming</a>**
-
-> 💭 I'm currently looking for an internship
-
-<!-- - :vhs: I also use GitLab: <a href="https://gitlab.com/EduardoMdR">Profile</a> -->
 
 > 📫 How to reach me: edu.mdr@outlook.com
 
