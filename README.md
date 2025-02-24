@@ -5,7 +5,7 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 ### **Current occupations**
 
 1.  Computer engineering student at the Universidade de Brasília (UnB)
-2.  Development Intern - RPA at <b>[@Smarthis](https://smarthis.com.br/)</b>
+2.  Junior RPA Developer at <b>[@Smarthis](https://smarthis.com.br/)</b>
 
 ### Some facts about me:
 
