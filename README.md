@@ -5,13 +5,13 @@ My name is Eduardo Marques dos Reis and this is my page with my repositories cre
 ### **Current occupations**
 
 1. Computer engineering student at the Universidade de Brasília (UnB)
-2. Junior RPA Developer at `<b>`[@Minsait](https://www.linkedin.com/company/minsait/)`</b>`
+2. Junior RPA Developer at [**@Minsait**](https://www.linkedin.com/company/minsait/)
 
 ### Some facts about me:
 
 > 🧠 I know the following languages C, C++, Python, Ruby, JavaScript, React JS and React Native, Go, HTML, CSS, database manipulation, API's
 
-> 📔 I’m currently learning **`<a style="color:#0969DA" href="https://en.wikipedia.org/wiki/Genetic_programming#:~:text=In%20artificial%20intelligence%2C%20genetic%20programming,to%20the%20population%20of%20programs.">`Genetic Programming`</a>`**
+> 📔 II'm always learning
 
 > 📫 How to reach me: edu.mdr@outlook.com
 
